@@ -1,3 +1,47 @@
+Project Name: ToyTopia
+Purpose : Implement HTML, JS, Tailwind, React and specially FIREBASE functions
+Live URL: https://sadiastoyshoptoytopia.netlify.app/
+Key Features :
+1. Navbar has 3 links Logo/Home takes to Home , Visit Store takes to All products page, Log in takes to profile log in/sign up
+2. User image is displays at the profile icon after log in
+3. Name shows when hover on the image
+4. Main has - Intro , 3 cards, Swiper Slider, Trending toys
+5. Visit Store shows toys from json data
+6. View detais is a private page
+7. User profile is also a private page
+8. Log in page allows toggling between Log in and Sign Up pages
+9. Log in page also allows GOOGLE Sign in 
+10. Footer has links to different terms conditions and contacts. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
